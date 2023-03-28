@@ -107,7 +107,7 @@ TBD
 
 ## 8. Where to buy
 
-<a href="https://www.aliexpress.us/item/3256805122957973.html"><img src="images/aliexpress.png" alt="aliexpress" height="80" style="position:relative;left:200px;" /></a><a href=" "><img src="images/taobao.png" alt="taobao" height="80" style="position:relative;left:400px;" /></a> <a href=""><img src="images/fysetc_online_shop.png" alt="fysetc" height="80" style="position:relative;left:600px;"/></a> 
+<a href="https://www.aliexpress.us/item/3256805122957973.html"><img src="images/Aliexpress.png" alt="aliexpress" height="80" style="position:relative;left:200px;" /></a><a href=" "><img src="images/taobao.png" alt="taobao" height="80" style="position:relative;left:400px;" /></a> <a href=""><img src="images/fysetc_online_shop.png" alt="fysetc" height="80" style="position:relative;left:600px;"/></a> 
 
 
 ## 9. Tech Support
