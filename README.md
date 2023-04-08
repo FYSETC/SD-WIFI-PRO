@@ -90,8 +90,7 @@ For some boards that only have a TF card holder and do not have an SPI interface
 
 ## 5. Firmware Guide
 
-The source code is at [SdWiFiBrowser](https://github.com/FYSETC/SdWiFiBrowser)
-Current release is swd 0.x version, the more description about the version at [README.md](https://github.com/FYSETC/SdWiFiBrowser/blob/main/README.md)
+The source code is at [SdWiFiBrowser](https://github.com/FYSETC/SdWiFiBrowser), current release is swd 0.x version, the more description about the version at [README.md](https://github.com/FYSETC/SdWiFiBrowser/blob/main/README.md)
 
 A new version is coming soon.
 
