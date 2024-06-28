@@ -14,7 +14,7 @@ It is not only a completely open source product, but also a wireless SD product 
 
 ## 2. Feature
 
-- Based on ESP32 PICO V3-02, with additional 8MB Flash, 2MB PSRAM
+- Based on ESP32 PICO D4, with additional 4MB Flash
 - 2.4G Wifi & Bluetooth
 - SD 7.0 size standard, SDIO/SPI compatible golden finger, and additional serial port and I2C interface
 - Built-in 8GB high-speed memory
