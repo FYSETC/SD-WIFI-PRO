@@ -101,8 +101,8 @@ A new version is coming soon.
 
 ## 7. Documentations
 
-[ESP32 PICO V3-02 Chip Datasheet EN](https://www.espressif.com/sites/default/files/documentation/esp32-pico-v3-02_datasheet_en.pdf) <br/>
-[ESP32 PICO V3-02 Chip Datasheet CN](https://www.espressif.com/sites/default/files/documentation/esp32-pico-v3-02_datasheet_cn.pdf) <br/>
+[ESP32 PICO Series Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-pico_series_datasheet_en.pdf) <br/>
+[ESP32 PICO Series Datasheet CN](https://www.espressif.com/sites/default/files/documentation/esp32-pico_series_datasheet_cn.pdf) <br/>
 [Uploader & Card Reader Board Schematic](https://github.com/FYSETC/SD-WIFI-PRO/blob/main/SD-WIFI-PRO%20Uploader.pdf) <br/>
 [SD WIFI PRO Schematic](https://github.com/FYSETC/SD-WIFI-PRO/blob/main/SD-WIFI-PRO%20V1.0.pdf) <br/>
 [Firmware](https://github.com/FYSETC/SdWiFiBrowser)
