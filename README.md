@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-This is a brand new SD WIFI, we call it SD WIFI PRO, or SWP for short. It is based on ESP32 PICO V3-02 and SD 7.0 size standard, with additional 8MB Flash, 2MB PSRAM, which can provide more possibilities for more creative applications.
+This is a brand new SD WIFI, we call it SD WIFI PRO, or SWP for short. It is based on ESP32-PICO device and SD 7.0 size standard.
 By default, we provide a set of open source and available websever firmware, which has complete file upload and download functions, and can basically meet the needs of remote management files in the LAN.
 In addition to the necessary SD transmission pins, SWP also leads out redundant pins. In addition to being used for firmware updates, it can also be used for other device control through the serial port/I2C, so as to realize remote upload files, send control commands and many other operations.
 It can also be used in scenarios other than 3D printing, such as Flash Air (TOSHIBA), ez Share (Ez Share) and other products on the market, for file sharing, such as quickly transferring photos in the camera without a data cable to the phone.
@@ -14,7 +14,7 @@ It is not only a completely open source product, but also a wireless SD product 
 
 ## 2. Feature
 
-- Based on ESP32 PICO D4, with additional 4MB Flash
+- Based on ESP32 PICO D4, with 4MB Flash
 - 2.4G Wifi & Bluetooth
 - SD 7.0 size standard, SDIO/SPI compatible golden finger, and additional serial port and I2C interface
 - Built-in 8GB high-speed memory
